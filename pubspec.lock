@@ -56,11 +56,7 @@ packages:
       name: fake_async
       url: "https://pub.dartlang.org"
     source: hosted
-<<<<<<< HEAD
     version: "1.3.0"
-=======
-    version: "1.2.0"
->>>>>>> edde3d4259b5f31e5b1f63a66337331c388ed667
   flutter:
     dependency: "direct main"
     description: flutter
